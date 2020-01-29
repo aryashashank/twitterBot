@@ -1,0 +1,16 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter-bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: No Test Specified\" && exit 1"
+  },
+  "author": "Shashank Arya",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "twitter": "^1.7.1"
+  }
+}
